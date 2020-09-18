@@ -1,18 +1,18 @@
 # CV
 
-**Personal information**\
-* Name: *__Mazurina Olga__*\
-* Phone number: +7-931-350-00-83\
-* E-mail: olya_28_94@mail.ru\
+**Personal information**
+* Name: *__Mazurina Olga__*
+* Phone number: +7-931-350-00-83
+* E-mail: olya_28_94@mail.ru
 * Github accaunt: OlgaMazurina
 
 
-**Objective**\
-I want to become a highly qualified\
+**Objective**
+I want to become a highly qualified
 Javascript expert. I am a fast learner and highly motivated
 
 
-**Profile**\
+**Profile**
 * JavaScript
 * HTML
 * CSS
@@ -20,7 +20,7 @@ Javascript expert. I am a fast learner and highly motivated
 * Git
 
 
-**Code example**\
+**Code example**
 ```
 const hasChar = (str, char) => {
   let i = 0;
@@ -37,16 +37,16 @@ const hasChar = (str, char) => {
 ```
 
 
-**Work experience**\
+**Work experience**
 * htmlacademy
 * RS school
 
 
-**Education**\
-* Pirogov Russian National Research Medical University, 2013-2018.\
-* St. Petersburg State Pediatric Medical University 2018-2020.\
+**Education**
+* Pirogov Russian National Research Medical University, 2013-2018.
+* St. Petersburg State Pediatric Medical University 2018-2020.
 
 
-**Language skills**\
+**Language skills**
   * Russian: native
   * English: Intermediate
