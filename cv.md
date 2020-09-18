@@ -4,7 +4,7 @@
 * Name: *__Mazurina Olga__*
 * Phone number: +7-931-350-00-83
 * E-mail: olya_28_94@mail.ru
-* Github account: @OlgaMazurina
+* Github account: [@OlgaMazurina](https://github.com/OlgaMazurina)
 
 
 ## Objective
