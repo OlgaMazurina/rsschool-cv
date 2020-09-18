@@ -1,5 +1,7 @@
 # CV
 
+![My photo](Olga.jpg)
+
 ## Personal information ##
 * Name: *__Mazurina Olga__*
 * Phone number: +7-931-350-00-83
