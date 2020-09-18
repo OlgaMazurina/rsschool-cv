@@ -4,28 +4,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <style>
+        body {
+          text-align: center;
+          background-color: #ffe4ff;
+          width: 1024px;
+        }
+
+        .list {
+          width: 280px;
+          margin-left: auto;
+          margin-right: auto;
+          text-align: left;
+        }
+        .lista {
+          width: 240px;
+          margin-left: auto;
+          margin-right: auto;
+          text-align: left;
+        }
+      </style>
   </head>
   <body>
-    <style>
-      body {
-        text-align: center;
-        background-color: #ffe4ff;
-        width: 1024px;
-      }
 
-      .list {
-        width: 280px;
-        margin-left: auto;
-        margin-right: auto;
-        text-align: left;
-      }
-      .lista {
-        width: 240px;
-        margin-left: auto;
-        margin-right: auto;
-        text-align: left;
-      }
-    </style>
     <header>
       <h1>CV</h1>
       <p><img src="Olga.jpg" alt="My photo" /></p>
@@ -67,7 +68,7 @@
         <code>
     const hasChar = (str, char) => {
             let i = 0;
-            while (i &lt str.length) {
+            while (i &lt; str.length) {
               if (str[i] === char) {
                 return true;
               }
