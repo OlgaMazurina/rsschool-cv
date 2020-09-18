@@ -10,6 +10,20 @@
       body {
         text-align: center;
         background-color: #ffe4ff;
+        width: 1024px;
+      }
+
+      .list {
+        width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+      }
+      .lista {
+        width: 240px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
       }
     </style>
 
@@ -17,24 +31,26 @@
     <p><img src="Olga.jpg" alt="My photo" /></p>
 
     <h2>Personal information</h2>
-    <ul>
-      <li>Name: Mazurina Olga</li>
-      <li>Phone number: +7-931-350-00-83</li>
-      <li>E-mail: olya_28_94@mail.ru</li>
-      <li>
-        Github account:
-        <a href="https://github.com/OlgaMazurina">@OlgaMazurina</a>
-      </li>
-    </ul>
+    <div class="list">
+      <ul>
+        <li>Name: Mazurina Olga</li>
+        <li>Phone number: +7-931-350-00-83</li>
+        <li>E-mail: olya_28_94@mail.ru</li>
+        <li>
+          Github account:
+          <a href="https://github.com/OlgaMazurina">@OlgaMazurina</a>
+        </li>
+      </ul>
+    </div>
 
     <h2>Objective</h2>
     <p>
-      I want to become a highly qualified Javascript expert. I am a fast learner
-      and highly motivated.
+      I want to become a highly qualified Javascript expert.<br />
+      I am a fast learner and highly motivated.
     </p>
 
     <h2>Profile</h2>
-    <ul>
+    <ul class="lista">
       <li>JavaScript</li>
       <li>HTML</li>
       <li>Markdown</li>
@@ -42,9 +58,12 @@
     </ul>
 
     <h2>Code example</h2>
-    <pre><code>const hasChar = (str, char) => {
+    <div class="lista">
+      <pre>
+        <code>
+    const hasChar = (str, char) => {
             let i = 0;
-            while (i < str.length) {
+            while (i &lt str.length) {
               if (str[i] === char) {
                 return true;
               }
@@ -55,6 +74,7 @@
             return false;
           };
     </code></pre>
+    </div>
 
     <h2>Work experience</h2>
     <ul>
@@ -63,7 +83,8 @@
     </ul>
 
     <h2>Language skills</h2>
-    <ul>
+
+    <ul class="lista">
       <li>Russian: Native</li>
       <li>English: Intermediate</li>
       <li>Spanish: Novice</li>
